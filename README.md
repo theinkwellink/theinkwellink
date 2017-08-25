@@ -1,6 +1,7 @@
 ## Welcome to theinkwellink
 
 [Link](theinkwellink.jpg) and ! [Image](src)
+Img src="images/github_theinkwellink.jgithub_theinkwellink.jpg"
 
 Adventures in writing.
 
