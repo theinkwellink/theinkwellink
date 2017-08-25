@@ -3,6 +3,8 @@
 [Link](theinkwellink.jpg) and ! [Image](src)
 Img src="images/github_theinkwellink.jgithub_theinkwellink.jpg"
 
+Width="100" height="100"
+
 Adventures in writing.
 
 I have been keeping this secret for long enough. I am a writer. Articles, stories, discoveries, events, even thoughts about bugs, I write about them. It is time someone knows about it. 
