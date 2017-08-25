@@ -1,37 +1,28 @@
 ## Welcome to Theinkwellink
 
-You can use the [editor on GitHub](https://github.com/theinkwellink/theinkwellink/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Link](url) and ! [Image](src)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Adventures in writing.
 
-### Markdown
+I have been keeping this secret for long enough. I am a writer. Articles, stories, discoveries, events, even thoughts about bugs, I write about them. It is time someone knows about it. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Titles of things:
 
-```markdown
-Syntax highlighted code block
+Coffee and Bananas 
+77 Cents for a Carton of Eggs
+Odessa Cycles
+National Creative Control Discovery Day
+Finally.
+The Lucky Duckling
+You've been inked.
+Get a whif of this.
+The A-Team
+My Love for Oatmeal
+Baseball!?
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theinkwellink/theinkwellink/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
