@@ -1,4 +1,4 @@
-## Welcome to Theinkwellink
+## Welcome to theinkwellink
 
 [Link](theinkwellink.jpg) and ! [Image](src)
 
