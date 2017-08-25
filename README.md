@@ -1,6 +1,6 @@
 ## Welcome to Theinkwellink
 
-[Link](url) and ! [Image](src)
+[Link](theinkwellink.jpg) and ! [Image](src)
 
 Adventures in writing.
 
