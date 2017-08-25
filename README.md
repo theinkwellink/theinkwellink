@@ -5,7 +5,7 @@
 Adventures in writing.
 </p>
 
-I have been keeping this secret for long enough. I am a writer. Articles, stories, discoveries, events, even thoughts about bugs, I write about them. It is time someone knows about it. 
+I have been keeping this secret for long enough. I am a writer. Stories, discoveries, events, even thoughts about bugs, I write about them. It is time someone knows about it. 
 
 Titles of things:
 
