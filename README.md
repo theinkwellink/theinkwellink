@@ -26,8 +26,12 @@ I have been keeping this secret for long enough. I am a writer. Stories, discove
 
 Titles of things:
 
-Coffee and Bananas 
-Coffee and Bananas mp3 : [Coffee and Bananas one](https ://gum.co/Coffeeandbananasone)
+Coffee and Bananas
+
+<script src="https://gumroad.com/js/gumroad-embed.js"></script>
+<div class="gumroad-product-embed" data-gumroad-product-id="Coffeeandbananasone"><a href="https://gumroad.com/l/Coffeeandbananasone">Loading...</a></div>
+
+Coffee and Bananas [Coffee and Bananas one](https ://gum.co/Coffeeandbananasone)
 
 77 Cents for a Carton of Eggs
 
