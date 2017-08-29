@@ -18,8 +18,6 @@ You've been inked.
 
 Get a whif of this.
 
-The A-Team
-
 My Love for Oatmeal
 
 Baseball!?
