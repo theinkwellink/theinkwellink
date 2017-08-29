@@ -1,10 +1,6 @@
-theinkwellink 
-
-Adventures in writing
-
 I have been keeping this secret for long enough. I am a writer. Stories, discoveries, events, even thoughts about bugs, I write about them. It is time someone knows about it. 
 
-Titles of things:
+**Titles of things:**
 
 Coffee and Bananas
 
